@@ -1,4 +1,4 @@
 # teste-redmine
-teste
+teste .
 
 release: v1.1.0
